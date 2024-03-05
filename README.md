@@ -1,3 +1,6 @@
+Personal copy of Zappys Playground
+Test these changes through the Git cycle.
+
 ---
 page_type: sample
 name: Zappy's Playground
